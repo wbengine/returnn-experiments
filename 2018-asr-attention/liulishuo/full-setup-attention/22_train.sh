@@ -7,4 +7,4 @@ set -exv
 # train/dev scores in particular are in the file data/exp-returnn/train-scores.data.
 # That directory can also be monitored by TensorBoard.
 
-/Users/lls/Works/returnn/rnn.py returnn_cpu.config
+/Users/lls/Works/returnn/rnn.py returnn.config

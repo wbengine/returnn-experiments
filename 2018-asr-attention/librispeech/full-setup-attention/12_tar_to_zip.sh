@@ -39,8 +39,8 @@ tar_to_zip dev-other
 tar_to_zip test-clean
 tar_to_zip test-other
 tar_to_zip train-clean-100
-tar_to_zip train-clean-360
-tar_to_zip train-other-500
+#tar_to_zip train-clean-360
+#tar_to_zip train-other-500
 
 cd "$zipdir"
 du -h *.zip
